@@ -1,6 +1,4 @@
 const Title = () => {
-    return <h1>To-Do list</h1>
-      
-    
+    return <h1 className="Title">To-Do list</h1>
 }
 export default Title

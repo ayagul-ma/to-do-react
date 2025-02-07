@@ -1,7 +1,7 @@
 const Input = () => {
     return (
      <div>
-        <input placeholder="Add a new task.."/>
+        <input className="input" placeholder="Add a new task.."/>
         <button>Add</button>
      </div>
     )
